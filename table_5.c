@@ -2,9 +2,10 @@
 int main()
 {
     int i;
-    for (int i = 1; i <= 10; i++)
+    for (i = 1; i <= 10; i++)
      {
     printf("%d ", 5 * i);
 }
+
 
 }
